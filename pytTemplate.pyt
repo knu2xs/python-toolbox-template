@@ -2,7 +2,7 @@
 Name:        |
 Purpose:
 
-Author:      Your Name (knu2xs@gmail.com)
+Author:      Your Name (youremail@someplace.com)
 
 Created:     $[DateTime-'DDMMMYYYY'-DateFormat]
 Copyright:   (c) Your Name $[DateTime-'YYYY'-DateFormat]
