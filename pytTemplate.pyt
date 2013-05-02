@@ -24,7 +24,8 @@ class businessLogic(object):
     '''
     This is a dummy class, a placehodler for the code you write doing the real
     work processing your data. Write, debug and test this first so you know it
-    is working. Then, once you have your working business logic,
+    is working. Then, once you have your working business logic, create the rest
+    of your toolbox below.
     '''
     # def method(self):
         # your incredible business logic
